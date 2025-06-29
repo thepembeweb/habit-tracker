@@ -1,10 +1,10 @@
 # React Native Habit Tracker App
 
-> This project showcases o simple habit tracker built with React Native and Expo.
+> This project showcases a simple habit tracker built with React Native and Expo.
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 
-## Habit tracker App
+## Habit Tracker App
 
 ![Habit tracker App screenshot](assets/app-screenshot.png)
 
@@ -62,4 +62,4 @@
 
 ## Authors
 
-- **[Pemberai Sweto](https://github.com/thepembeweb)** - _Initial work_ - [Habit tracker](https://github.com/thepembeweb/habit-tracker)
+- **[Pemberai Sweto](https://github.com/thepembeweb)** - _Initial work_ - [Habit Tracker](https://github.com/thepembeweb/habit-tracker)
