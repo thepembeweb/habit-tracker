@@ -8,6 +8,8 @@
 
 ![Habit tracker App screenshot](assets/app-screenshot.png)
 
+![Habit tracker App screenshot](assets/app-screenshot2.png)
+
 ## Features
 
 - See a list of all the habits
